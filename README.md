@@ -1,5 +1,5 @@
 <h2>  I'm Mingxia Huang</h2>
-<img align='right' src="./image/IMG_1982.png" width="230">
+<img align='right' src="./image/image.png" width="230">
 <p><em></br>Work in <a href="https://www.redhat.com">redhat</a><img src="https://media.giphy.com/media/rwiOduiq2oatO/giphy.gif" width="30"> 
 </em></p>
 
